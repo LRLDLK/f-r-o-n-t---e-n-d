@@ -66,6 +66,8 @@ Los formularios se encuentran validados para controlar su llenado con informaci�
 <br>
 <br>
 Los formularios generan un mensaje de confirmación una vez se presiona el botón de envío.
+<br>
+<br>
 <img src="./img/captura7.jpg" alt="captura sitio" width="350px" margin="auto"/>
 <br>
 <br>
