@@ -20,29 +20,32 @@ La página se creo para aprender y practicar el desarrollo front-end, simulando 
 ## IMÁGENES DEMO
 ### Sección principal
 
-- Menu
+#### Menu
+La página principal contiene un menu de navegación responsive con menu hamburguesa para dispositos más pequeños.
 <br>
-La página principal contiene un menu de navegación responsive con menu hamburguesa para dispositos más pequeños.<br>
+<br>
 <img src="./img/captura1.jpg" alt="captura sitio" width="350px" margin="auto"/>
-<br><br>
-El menu es de tipo hamburguesa para dispositos más pequeños.<br>
+<br>
+<br>
+El menu es de tipo hamburguesa para dispositos más pequeños.
+<br>
+<br>
 <img src="./img/captura5.jpg" alt="captura sitio" width="350px" margin="auto" />
-<br><br>
+
+#### Portada principal
 La sección de servicios cuenta con una descripción y puede ampliarse al hacer click sobre cada cuadro, a fin de visualizarse en un tamaño mayor para más comodidad.
 <br>
 <img src="./img/captura6.jpg" alt="captura sitio" width="350px" margin="auto" />
-<br>
-<br>
 
-- Pie de página
-<br>
+
+#### Pie de página
+
 La parte inferior de la página lleva un carrousel de fotos de los servicios del restaurant, el cual está habilitado para transiciones automáticas.
 <br>
 <img src="./img/captura3.jpg" alt="captura sitio" width="350px" margin="auto" />
-<br>
-<br>
 
-- Sección "Sobre Nosotros"
+
+#### Sección "Sobre Nosotros"
 <br>
 La descricipción del restaurante se encuentra en el menu y al presionar el link se despliega un modal con carrousel que contiene la información acerca del restaurant.
 <br>
