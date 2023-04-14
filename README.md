@@ -35,31 +35,39 @@ El menu es de tipo hamburguesa para dispositos más pequeños.
 #### Portada principal
 La sección de servicios cuenta con una descripción y puede ampliarse al hacer click sobre cada cuadro, a fin de visualizarse en un tamaño mayor para más comodidad.
 <br>
+<br>
 <img src="./img/captura6.jpg" alt="captura sitio" width="350px" margin="auto" />
-
+<br>
+<br>
 
 #### Pie de página
 
 La parte inferior de la página lleva un carrousel de fotos de los servicios del restaurant, el cual está habilitado para transiciones automáticas.
 <br>
+<br>
 <img src="./img/captura3.jpg" alt="captura sitio" width="350px" margin="auto" />
-
+<br>
+<br>
 
 #### Sección "Sobre Nosotros"
-<br>
+
 La descricipción del restaurante se encuentra en el menu y al presionar el link se despliega un modal con carrousel que contiene la información acerca del restaurant.
 <br>
+<br>
 <img src="./img/captura4.jpg" alt="captura sitio" width="350px" margin="auto" />
-
+<br>
+<br>
 
 ### Formularios de contacto y para reservas
 Los formularios se encuentran validados para controlar su llenado con información correcta y generan un mensaje de alerta en caso de no cumplir con los requisitos de registro.
+<br>
+<br>
 <img src="./img/captura2.jpg" alt="captura sitio" width="350px" margin="auto"/>
-<br> <br>
+<br>
+<br>
 Los formularios generan un mensaje de confirmación una vez se presiona el botón de envío.
 <img src="./img/captura7.jpg" alt="captura sitio" width="350px" margin="auto"/>
 <br>
-
 <br>
 
 ### DEPLOYMENT
